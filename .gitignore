@@ -20,3 +20,5 @@ config/mongoid.yml
 config/mongoid.yml.enc
 config/mongoid.yml
 config/mongoid.yml.enc
+
+.env
